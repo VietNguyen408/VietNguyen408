@@ -12,7 +12,7 @@ BTW, if you´re looking for a Discord word game, take a look at this [Kagari Dis
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vietnguyen781//)](https://https://www.linkedin.com/in/vietnguyen781//)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vietnguyen781//)](https://www.linkedin.com/in/vietnguyen781//)  
 
 
-**[diogorodrigues.dev]()**
+
