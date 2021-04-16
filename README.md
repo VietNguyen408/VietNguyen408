@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Viet Nguyen]()!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Viet Nguyen](https://www.linkedin.com/in/vietnguyen781/)!
 
 I am currently an IT student at Vaasa University of Applied Sciences. I´m based in Vaasa, Finland.
 
