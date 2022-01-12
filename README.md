@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Viet Nguyen](https://www.linkedin.com/in/vietnguyen781/)!
 
-I am currently an Software Engineering student at Vaasa University of Applied Sciences and I´m based in Valencia, Spain. I build stuff too.
+I am currently an Software Engineering student at Vaasa University of Applied Sciences and I´m currently doing a DevOps internship in Valencia, Spain. I build stuff too.
 
 This year, I have achieved 2nd prize award of Hackathon "The UAS of the future" through Kurry Mobile Focus App. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
