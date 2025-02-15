@@ -6,7 +6,7 @@ In 2021, I have achieved 2nd prize award of Hackathon "The UAS of the future" th
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my coding skills: Python, Bash Script, Golang.<br />
+Currently improving my coding skills: Python, Bash Script.<br />
 BTW, if you´re looking for a Discord word game, take a look at this [Kagari Discord Bot](https://https://github.com/VietNguyen408/KagariBot).
 
 
